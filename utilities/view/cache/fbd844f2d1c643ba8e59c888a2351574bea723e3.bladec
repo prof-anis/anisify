@@ -1,0 +1,6 @@
+	<!-- include jQuery -->
+	<script src="<?php  echo (isset($this->assetDict[('js/jquery.js')]))?$this->assetDict[('js/jquery.js')]:$this->baseUrl.'/'.('js/jquery.js'); ?>"></script>
+	<!-- include jQuery -->
+ <script src="<?php  echo (isset($this->assetDict[('js/plugins.js')]))?$this->assetDict[('js/plugins.js')]:$this->baseUrl.'/'.('js/plugins.js'); ?>"></script>
+ <!-- include jQuery -->
+ <script src="<?php  echo (isset($this->assetDict[('js/jquery.main.js')]))?$this->assetDict[('js/jquery.main.js')]:$this->baseUrl.'/'.('js/jquery.main.js'); ?>"></script>
