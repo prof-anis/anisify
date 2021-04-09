@@ -19,7 +19,8 @@ class input
 		//return the server arguments
 	}
 
-	public function  removeAnisifyExtension(){
+	public function  removeAnisifyExtension()
+	{
 		//removes the anisify extension
 		$userInput=$this->getServerFeedback();
      if(in_array('anisify', $userInput)){
