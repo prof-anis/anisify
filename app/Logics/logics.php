@@ -4,9 +4,7 @@ namespace App\Logics;
 use utilities\router\request;
 use utilities\database\QueryBuilder\DB;
 
-/**
- * 
- */
+
 class logics
 {
 	
