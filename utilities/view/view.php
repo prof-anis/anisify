@@ -1,9 +1,7 @@
 <?php
 namespace utilities\view;
 use utilities\view\lib\Bladeone;
-/**
- * 
- */
+
 class View 
 {
 	
